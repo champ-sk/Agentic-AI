@@ -7,3 +7,5 @@ langchain_huggingface
 sentence-transformers
 langchain-pinecone
 langchainhub
+hf_xet
+chromadb
